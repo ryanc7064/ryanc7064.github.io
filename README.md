@@ -74,4 +74,4 @@ _NOTE: It may take up to a few minutes in order for your changes to be updated o
 
 ---
 
-# Don't Have fun!
+# Don't Have Fun!
